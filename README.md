@@ -23,16 +23,16 @@ Currently building:
 
 Real reliability findings and execution fixes merged into production AI systems and developer tooling.
 
-| Repository                                                                    | Contribution                                             |
-| ----------------------------------------------------------------------------- | -------------------------------------------------------- |
-| [gstack](https://github.com/garrytan/gstack?utm_source=chatgpt.com)           | Improved provider-aware Retry-After handling             |
-| [pi](https://github.com/earendil-works/pi?utm_source=chatgpt.com)             | Separated retry semantics for provider failures          |
-| [Botpress](https://github.com/botpress/botpress?utm_source=chatgpt.com)       | Identified SDK vs CLI retry policy divergence            |
-| [gsd-2](https://github.com/gsd-build/gsd-2?utm_source=chatgpt.com)            | Fixed unwired Codex execution path                       |
-| [CopilotKit](https://github.com/CopilotKit/CopilotKit?utm_source=chatgpt.com) | Improved long-window Retry-After handling behavior       |
-| [Superset](https://github.com/superset-sh/superset?utm_source=chatgpt.com)    | Surfaced agent-side 429 propagation issue                |
-| [VoltAgent](https://github.com/VoltAgent/voltagent?utm_source=chatgpt.com)    | Identified framework-level retry inheritance behavior    |
-| [Helicone](https://github.com/Helicone/helicone?utm_source=chatgpt.com)       | Analyzed provider cooldown and retry classification gaps |
+| Repository | Contribution |
+|---|---|
+| <img src="https://github.com/garrytan.png" width="18" /> [gstack](https://github.com/garrytan/gstack) | Improved provider-aware Retry-After handling ([Merged](https://github.com/garrytan/gstack/issues/1244#event-25339963479)) |
+| <img src="https://github.com/garrytan.png" width="18" /> [gbrain](https://github.com/garrytan/gbrain) | Added receipt document type to native frontmatter inference ([Open PR](https://github.com/garrytan/gbrain/pull/973)) |
+| <img src="https://github.com/gsd-build.png" width="18" /> [gsd-2](https://github.com/gsd-build/gsd-2) | Fixed unwired Codex execution path ([Merged PR](https://github.com/gsd-build/gsd-2/pull/5859)) |
+| <img src="https://github.com/earendil-works.png" width="18" /> [pi](https://github.com/earendil-works/pi) | Separated retry semantics for provider failures ([Merged PR](https://github.com/earendil-works/pi/pull/4486)) |
+| <img src="https://github.com/cline.png" width="18" /> [Cline](https://github.com/cline/cline) | Surfaced Retry-After propagation behavior ([Issue](https://github.com/cline/cline/issues/10139)) |
+| <img src="https://github.com/botpress.png" width="18" /> [Botpress](https://github.com/botpress/botpress) | Identified SDK vs CLI retry policy divergence ([Merged PR](https://github.com/botpress/botpress/pull/15145)) |
+| <img src="https://github.com/superset-sh.png" width="18" /> [Superset](https://github.com/superset-sh/superset) | Surfaced agent-side 429 propagation issue ([Merged PR](https://github.com/superset-sh/superset/pull/4373)) |
+| <img src="https://github.com/Yeachan-Heo.png" width="18" /> [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | Improved provider retry behavior handling ([Merged PR](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/2746)) |
 
 ---
 
@@ -84,23 +84,14 @@ Current focus areas:
 
 ## Background
 
-Previously:
+Solo founder. Background in systematic trading infrastructure and quantitative strategy development.
 
-* Product / strategy / systems leadership across startups and venture-backed companies
-* Built operational systems spanning product, partnerships, execution, and growth
-* Deep interest in deterministic orchestration, structured agency, and human-in-the-loop systems
-
-Now focused on:
-
-* AI-native infrastructure
-* execution reliability
-* agent orchestration
-* machine-readable operational systems
+Building at the intersection of execution reliability, deterministic orchestration, and AI-native systems.
 
 ---
 
 ## Writing / Contact
 
-* [pitstop.dev](https://pitstop.dev?utm_source=chatgpt.com)
+* [Pitstop.dev](https://pitstop.dev)
 * [LinkedIn](https://www.linkedin.com/in/brentwilliams/?utm_source=chatgpt.com)
 * [brent@pitstop.dev](mailto:brent@pitstop.dev)
