@@ -15,7 +15,7 @@ Currently building:
 
 * [Pitstop](https://pitstop.dev?utm_source=chatgpt.com) — reliability infrastructure for AI/API execution
 * [Pitstop Truth](https://github.com/SirBrenton/pitstop-truth?utm_source=chatgpt.com) — documented execution failure corpus
-* [PracticallyAI](https://github.com/SirBrenton/practicallyai?utm_source=chatgpt.com) — objective-agnostic execution engine built around skills, validation loops, and structured orchestration
+* [PracticallyAI](https://github.com/SirBrenton/practicallyai?utm_source=chatgpt.com) — **Private** objective-agnostic execution engine built around skills, validation loops, and structured orchestration
 
 ---
 
