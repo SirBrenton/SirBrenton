@@ -17,10 +17,6 @@ Currently building:
 * [Pitstop Truth](https://github.com/SirBrenton/pitstop-truth?utm_source=chatgpt.com) — documented execution failure corpus
 * [PracticallyAI](https://github.com/SirBrenton/practicallyai?utm_source=chatgpt.com) — objective-agnostic execution engine built around skills, validation loops, and structured orchestration
 
-Contributions:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SirBrenton&show_icons=true&theme=transparent&hide_border=true)
-
 ---
 
 ## Recent Production Contributions
