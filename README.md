@@ -25,6 +25,7 @@ Real reliability findings and execution fixes merged into production AI systems 
 
 | Repository | Contribution |
 |---|---|
+| <img src="https://github.com/genkit-ai.png" width="18" /> [genkit](https://github.com/genkit-ai/genkit) | Identified missing Retry-After propagation channel across middleware boundary — fix merged across Anthropic, OpenAI, and Gemini integrations ([Issue #5270](https://github.com/genkit-ai/genkit/issues/5270) · [Merged PR #5343](https://github.com/genkit-ai/genkit/pull/5343)) |
 | <img src="https://github.com/garrytan.png" width="18" /> [gstack](https://github.com/garrytan/gstack) | Improved provider-aware Retry-After handling ([Merged](https://github.com/garrytan/gstack/issues/1244#event-25339963479)) |
 | <img src="https://github.com/garrytan.png" width="18" /> [gbrain](https://github.com/garrytan/gbrain) | Added receipt document type to native frontmatter inference ([Open PR](https://github.com/garrytan/gbrain/pull/973)) |
 | <img src="https://github.com/gsd-build.png" width="18" /> [gsd-2](https://github.com/gsd-build/gsd-2) | Fixed unwired Codex execution path ([Merged PR](https://github.com/gsd-build/gsd-2/pull/5859)) |
@@ -33,6 +34,7 @@ Real reliability findings and execution fixes merged into production AI systems 
 | <img src="https://github.com/botpress.png" width="18" /> [Botpress](https://github.com/botpress/botpress) | Identified SDK vs CLI retry policy divergence ([Merged PR](https://github.com/botpress/botpress/pull/15145)) |
 | <img src="https://github.com/superset-sh.png" width="18" /> [Superset](https://github.com/superset-sh/superset) | Surfaced agent-side 429 propagation issue ([Merged PR](https://github.com/superset-sh/superset/pull/4373)) |
 | <img src="https://github.com/Yeachan-Heo.png" width="18" /> [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | Improved provider retry behavior handling ([Merged PR](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/2746)) |
+
 
 ---
 
