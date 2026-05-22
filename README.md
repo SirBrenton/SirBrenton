@@ -25,6 +25,7 @@ Real reliability findings and execution fixes merged into production AI systems 
 
 | Repository | Contribution |
 |---|---|
+| <img src="https://github.com/VoltAgent.png" width="18" /> [voltagent](https://github.com/VoltAgent/voltagent) | Identified framework-level Retry-After omission causing coordinated retry amplification under shared provider contention — fix merged ([Issue #1276](https://github.com/VoltAgent/voltagent/issues/1276) · [Merged PR #1283](https://github.com/VoltAgent/voltagent/pull/1283)) |
 | <img src="https://github.com/genkit-ai.png" width="18" /> [genkit](https://github.com/genkit-ai/genkit) | Identified missing Retry-After propagation channel across middleware boundary — fix merged across Anthropic, OpenAI, and Gemini integrations ([Issue #5270](https://github.com/genkit-ai/genkit/issues/5270) · [Merged PR #5343](https://github.com/genkit-ai/genkit/pull/5343)) |
 | <img src="https://github.com/garrytan.png" width="18" /> [gstack](https://github.com/garrytan/gstack) | Improved provider-aware Retry-After handling ([Merged](https://github.com/garrytan/gstack/issues/1244#event-25339963479)) |
 | <img src="https://github.com/garrytan.png" width="18" /> [gbrain](https://github.com/garrytan/gbrain) | Added receipt document type to native frontmatter inference ([Open PR](https://github.com/garrytan/gbrain/pull/973)) |
