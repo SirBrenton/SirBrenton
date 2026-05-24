@@ -19,7 +19,7 @@ Currently building:
 
 ---
 
-## Recent Production Contributions
+## Recent Execution Reliability Contributions
 
 Real reliability findings and execution fixes merged into production AI systems and developer tooling.
 
