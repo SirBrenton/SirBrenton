@@ -25,6 +25,7 @@ Real reliability findings and execution fixes merged into production AI systems 
 
 | Repository | Contribution |
 |---|---|
+| <img src="https://github.com/langchain-ai.png" width="18" /> [langchainjs](https://github.com/langchain-ai/langchainjs) | Identified inconsistent 429 handling across Anthropic, OpenAI, Google, and OpenRouter provider paths — maintainer adopted the WAIT/CAP/STOP classification distinction directly into the shared retry classifier, fix merged across `@langchain/core`, `@langchain/google`, and `@langchain/openrouter` ([Issue #10566](https://github.com/langchain-ai/langchainjs/issues/10566) · [Merged PR #10674](https://github.com/langchain-ai/langchainjs/pull/10674)) |
 | <img src="https://github.com/genkit-ai.png" width="18" /> [genkit](https://github.com/genkit-ai/genkit) | Identified missing Retry-After propagation channel across middleware boundary — fix merged across Anthropic, OpenAI, and Gemini integrations ([Issue #5270](https://github.com/genkit-ai/genkit/issues/5270) · [Merged PR #5343](https://github.com/genkit-ai/genkit/pull/5343)) |
 | <img src="https://github.com/garrytan.png" width="18" /> [gstack](https://github.com/garrytan/gstack) | Improved provider-aware Retry-After handling ([Merged](https://github.com/garrytan/gstack/issues/1244#event-25339963479)) |
 | <img src="https://github.com/earendil-works.png" width="18" /> [pi](https://github.com/earendil-works/pi) | Separated retry semantics for provider failures ([Merged PR](https://github.com/earendil-works/pi/pull/4486)) |
