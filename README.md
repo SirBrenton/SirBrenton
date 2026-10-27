@@ -2,6 +2,10 @@
 
 Building systems for reliable AI/API execution.
 
+Summary:
+
+I have developed years of demonstrated capability in orchestrating advanced reasoning models across long-horizon technical systems, maintaining continuity over hundreds of PRs, designing governance/evaluation structures, challenging model outputs, reconstructing complex systems, and carrying difficult work to completion.
+
 Focused on:
 
 * retry semantics
