@@ -17,9 +17,9 @@ Focused on:
 
 Currently building:
 
-* [Pitstop](https://pitstop.dev?utm_source=chatgpt.com) — reliability infrastructure for AI/API execution
-* [Pitstop Truth](https://github.com/SirBrenton/pitstop-truth?utm_source=chatgpt.com) — documented execution failure corpus
-* [PracticallyAI](https://github.com/SirBrenton/practicallyai?utm_source=chatgpt.com) — **Private** objective-agnostic execution engine built around skills, validation loops, and structured orchestration
+* [Pitstop](https://pitstop.dev) — reliability infrastructure for AI/API execution
+* [Pitstop Truth](https://github.com/SirBrenton/pitstop-truth) — documented execution failure corpus
+* [PracticallyAI](https://github.com/SirBrenton/practicallyai) — **Private** objective-agnostic execution engine built around skills, validation loops, and structured orchestration
 
 ---
 
@@ -87,7 +87,7 @@ Current focus areas:
 * retry amplification
 * blast-radius correctness
 
-→ [View the corpus](https://github.com/SirBrenton/pitstop-truth?utm_source=chatgpt.com)
+→ [View the corpus](https://github.com/SirBrenton/pitstop-truth)
 
 ---
 
@@ -102,5 +102,5 @@ Building at the intersection of execution reliability, deterministic orchestrati
 ## Writing / Contact
 
 * [Pitstop.dev](https://pitstop.dev)
-* [LinkedIn](https://www.linkedin.com/in/brentwilliams/?utm_source=chatgpt.com)
+* [LinkedIn](https://www.linkedin.com/in/brentwilliams/)
 * [brent@pitstop.dev](mailto:brent@pitstop.dev)
