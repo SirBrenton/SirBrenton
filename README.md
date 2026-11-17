@@ -1,25 +1,12 @@
 # Brent Williams
 
-Building systems for reliable AI/API execution.
+I find where AI systems mishandle rate limits and retries, and I get the fixes merged.
 
-Summary:
+- **10 fixes merged** into AI frameworks and tools, including LangChain.js, Genkit, VoltAgent and Botpress.
+- **LangChain.js adopted my WAIT / CAP / STOP distinction** in its shared retry classifier ([issue](https://github.com/langchain-ai/langchainjs/issues/10566) · [merged PR](https://github.com/langchain-ai/langchainjs/pull/10674)).
+- **70 documented failures** in [Pitstop Truth](https://github.com/SirBrenton/pitstop-truth), each with evidence, a validated schema and a public corrections log.
 
-I have developed years of demonstrated capability in orchestrating advanced reasoning models across long-horizon technical systems, maintaining continuity over hundreds of PRs, designing governance/evaluation structures, challenging model outputs, reconstructing complex systems, and carrying difficult work to completion.
-
-Focused on:
-
-* retry semantics
-* execution budgets
-* failure classification
-* routing correctness
-* production receipts
-* deterministic AI orchestration
-
-Currently building:
-
-* [Pitstop](https://pitstop.dev) — reliability infrastructure for AI/API execution
-* [Pitstop Truth](https://github.com/SirBrenton/pitstop-truth) — documented execution failure corpus
-* [PracticallyAI](https://github.com/SirBrenton/practicallyai) — **Private** objective-agnostic execution engine built around skills, validation loops, and structured orchestration
+**How I work:** I run long technical projects with AI models as collaborators, check their output against evidence, and publish corrections when I'm wrong.
 
 ---
 
